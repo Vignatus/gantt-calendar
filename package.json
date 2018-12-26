@@ -1,0 +1,23 @@
+{
+  "name": "gantt-calendar",
+  "version": "1.0.0",
+  "description": "A non-UI calendar module based on working hours, working days, holidays. It lets you count the number of business days/hours between 2 dates, get next working days and so on.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignatus/gantt-calendar.git"
+  },
+  "keywords": [
+    "'calendar'",
+    "'workingHours'"
+  ],
+  "author": "Vignatus",
+  "license": "GNU GPL",
+  "bugs": {
+    "url": "https://github.com/Vignatus/gantt-calendar/issues"
+  },
+  "homepage": "https://github.com/Vignatus/gantt-calendar#readme"
+}
