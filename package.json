@@ -1,6 +1,6 @@
 {
   "name": "gantt-calendar",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A non-UI calendar module based on working hours, working days, holidays. It lets you count the number of business days/hours between 2 dates, get next working days and so on.",
   "main": "index.js",
   "scripts": {
